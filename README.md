@@ -1,6 +1,6 @@
 <html>
 <body>
-<!--StartFragment--><html><head></head><body><h1>Alejandra's Tech Jorunal</h1>
+<!--StartFragment--><html><head></head><body><h1>Alejandra's Tech Journal</h1>
 <p><strong>Champlain College Student</strong> · B.S. Cybersecurity and Minor in Digital Forensics · Class of 2028</p>
 <p>I'm passionate about network defense and digital forensics. This GitHub is where I keep my coursework, lab write-ups, and personal projects from my studies.</p>
 <hr>
